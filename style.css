@@ -11,13 +11,13 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(92, 88, 88);
+    background: rgb(212, 202, 202);
 }
 
  .wrapper {
     width: 420px;
-    background: #fafafa;
-    color: rgb(0, 0, 0);
+    background: #656262;
+    color: rgb(248, 246, 246);
     border-radius: 10px;
     padding: 30px 40px;
  }
